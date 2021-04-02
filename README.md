@@ -9,7 +9,7 @@ A simple script that aims to make you exist where you're not actually exist.
 
 3-Right click on the speaker symbol(at the right bottom of windows OS), go to sound effects, in the second tab activate the stereo device and disable all the other devices.
 
-4-Right click on the stereo device and you'll see a checkbox in the second tab. That checkbox has to be clicked. Apply the changes and exit.
+4-Right click on the stereo device, click on properties button and you'll see a checkbox in the second tab. That checkbox has to be clicked. Apply the changes and exit.
 
 # Python Requirements:
 
