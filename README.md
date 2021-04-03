@@ -26,3 +26,5 @@ Python 3.6 or higher.
 # Note
 
 ### Coded for fun. Don't use it in real life
+
+https://www.youtube.com/watch?v=UOGvoRjBfSk
